@@ -1,1 +1,1 @@
-# pip
+# pip entornos virtuales python
