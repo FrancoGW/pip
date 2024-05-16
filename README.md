@@ -1,1 +1,6 @@
-# pip entornos virtuales python
+# Game Project
+
+``` sh
+cd game
+python3 main.py
+```
